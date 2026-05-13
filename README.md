@@ -1,4 +1,3 @@
-# hellooo
 # Leave Management System
 
 A web application built with Oracle APEX and SQL to manage employee leave requests in an enterprise environment.
